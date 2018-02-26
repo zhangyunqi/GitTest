@@ -4,5 +4,6 @@
     <root id="archive" name="GitTest.war">
       <element id="artifact" artifact-name="GitTest:war exploded" />
     </root>
+
   </artifact>
 </component>
